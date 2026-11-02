@@ -1,4 +1,4 @@
-MERIDIAN FACILITY SOLUTIONS - WEBSITE v2 (static HTML + CSS)
+MERIDIAN SOLUTIONS LLC - WEBSITE v2 (static HTML + CSS)
 Domain: meridianfacilitysolutions.com
 Status: built locally, NOT deployed. No accounts created, nothing purchased.
 
